@@ -25,7 +25,7 @@ Permissões de leitura/escrita no diretório alvo
 
 #### Instalação:
 bash
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/Gabriel-Rosatto-Dantas/Organizador-de-arquivos)
+git clone https://github.com/Gabriel-Rosatto-Dantas/Organizador-de-arquivos
 
 #### Execução:
 Modifique o caminho do diretório na última linha do script para o caminho que deseja organizar
